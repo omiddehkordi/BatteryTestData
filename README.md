@@ -9,7 +9,9 @@ Running the program:
     1) In your computer's terminal change the directory to the project directory with the command cd PATH 
     (e.g. cd /Users/omid/Desktop/BatteryDataAnalysis)
 
-    2)Then Run the program with ./stats.py in your Terminal
+    2) For Mac run the program with ./stats.py in your Terminal 
+
+    3) For Windows run it with the command python stats.py in cmd
 
     3) A browse window will appear in which you can choose the test data file you want
 
